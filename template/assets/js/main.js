@@ -69,18 +69,6 @@
         })
 
 
-        // MAGNIFIC POPUP FOR PORTFOLIO PAGE
-        $('.image-popup').magnificPopup({
-            type: 'image',
-            gallery: {
-                enabled: true
-            },
-            zoom: {
-                enabled: true,
-                duration: 300
-            }
-        });
-
 
 
 
