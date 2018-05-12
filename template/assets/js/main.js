@@ -59,18 +59,6 @@
 
 
 
-        //OWL CAROUSEL
-        $('.clients-review').owlCarousel({
-            items: 1,
-            autoplay: true,
-            loop: true,
-            nav: false,
-            dots: true
-        })
-
-
-
-
 
 
 
