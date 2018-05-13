@@ -290,6 +290,14 @@ html {
 
 /*START::ABOUT SECTION CSS*/
 
+#about a {
+    color: #732A4E;
+}
+
+#about a:hover {
+    color: #515A5F;
+}
+
 #alt-logo {
     width: 150px;
 }

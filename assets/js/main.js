@@ -35,19 +35,6 @@
             offset: 54
         });
 
-        //WOW JS
-        new WOW().init();
-
-        //COUNTER UP
-        $('.counter').counterUp({
-            delay: 10,
-            time: 1000
-        });
-
-        // init Isotope
-        var $grid = $('.grid').isotope({
-            // options
-        });
         // filter items on button click
         $('.filter-button-group').on('click', 'button', function () {
             var filterValue = $(this).attr('data-filter');
